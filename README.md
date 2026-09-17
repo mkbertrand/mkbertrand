@@ -1,30 +1,36 @@
 ### Hi! I'm Miles Bertrand.
 
-## I use programming to solve real problems.
+## Code is the means, not the end.
 
-I'm a recent graduate of Duquesne University (go Dukes!) with a B.S. in Mathematics and a B.A. in Philosophy and Catholic Studies, with a minor in Psychology. While my mathematics degree may have more traditional associations with computer science, I devote a lot of my time to finding solutions to meet the needs of my Catholic community.
+I'm a recent graduate of Duquesne University with a B.S. in Mathematics and a B.A. in Philosophy and Catholic Studies, with a minor in Psychology. While my mathematics degree may have more traditional associations with computer science, I am also formed heavily by my education in Philosophy.  I love solving problems and iteratively refining to more and more simple solutions, and I find my work justified when it actually changes the real world, even in small ways.
 
-## What's my approach?
+## My means
 
-Owing both to my mathematics and philosophy education, I value simplicity and forming a strong understanding of any tool I make use of. Although I gained my love of development from messing around in Java and TI-Basic, I currently work mostly in Python and Javascript, and am learning C++.
+Although my initial exposure to programming came from messing around in Java and TI-Basic, I currently work mostly in Python and Javascript, and am learning C++.
 
-While a lot of developers and companies measure success by lines of code written, I measure my success in lines of code removed and functions made comprehensible.
+I'm pragmatic enough to be willing to recognize when it's best to start complicated and refine later; but I'm motivated enough by my aesthetic sense to ensure that later always comes to pass.
 
-I love learning new things, and actively identify tools that may be useful to current projects.
+I proactively study new tools that I believe will prove useful later.
 
-## What I work on
+## My ends
 
 I'm mostly working on the Liber Usualis Project, a web application designed to make Catholic liturgy simple, streamlined, and accessible to the general public.
 
 This means I develop the AlpineJS frontend and the Python backend and data pipeline.
 
-## Technology I work with
+I'm also actively developing tools for ingesting social media messages and analyzing communities and persons using Playwright, SQLite, and various statistical and AI tools; these are not available on my public GitHub.
 
-- AlpineJS
-- JQuery
-- HTML/CSS/Javascript
+## Technologies I work with
+
 - Python
 - Java
 - R
+- SQLite
+- Pandas/Numpy
+- PyTorch
+- Playwright
+- AlpineJS
+- JQuery
+- HTML/CSS/Javascript
 - Git / Github
-- Claude
+- Claude Code
